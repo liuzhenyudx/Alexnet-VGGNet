@@ -5,9 +5,7 @@ from torchvision import datasets, transforms
 from torch import optim as optim
 import math
 import os
-'''
-modified to fit dataset size
-'''
+
 NUM_CLASSES = 10
 
 
